@@ -3,4 +3,4 @@ HelloWorld
 
 Hello world first test repository
 
-This is a new line added after initial cretion of the file
+This is a new line added after initial creation of the file
